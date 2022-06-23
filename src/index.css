@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color:  #FAFAFA;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiButtonBase-root{
+  text-transform: none !important;
+}
+
+a{
+  text-decoration: none;
+}
